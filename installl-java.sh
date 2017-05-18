@@ -1,4 +1,4 @@
 
 code to install java
 code to install python
-code to install c++
+code to remove c++
